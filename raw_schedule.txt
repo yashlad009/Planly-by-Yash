@@ -1,0 +1,1031 @@
+Sprint 1
+Estimated total: 21h 5m
+
+Day 1
+Estimated time: 2h 53m
+1. Linear Search
+2. Largest Element
+3. Second Largest Element
+4. Maximum Consecutive Ones
+5. Left Rotate Array by One
+6. Left Rotate Array by K Places
+7. Move Zeros to End
+8. Remove duplicates from sorted array
+9. Find missing number
+10. Union of two sorted arrays
+11. Intersection of two sorted arrays
+12. Majority Element-I
+13. Leaders in an Array
+14. Rearrange array elements by sign
+15. Print the matrix in spiral manner
+
+Day 2
+Estimated time: 2h 47m
+1. Pascal's Triangle I
+2. Pascal's Triangle II
+3. Pascal's Triangle III
+4. Rotate matrix by 90 degrees
+5. Two Sum
+6. 3 Sum
+7. 4 Sum
+8. Sort an array of 0's 1's and 2's
+9. Kadane's Algorithm
+
+Day 3
+Estimated time: 2h 44m
+1. Next Permutation
+2. Majority Element-II
+3. Find the repeating and missing number
+4. Count Inversions
+5. Reverse Pairs
+6. Maximum Product Subarray in an Array
+
+Day 4
+Estimated time: 2h 32m
+1. Merge two sorted arrays without extra space
+2. Selection Sort
+3. Bubble Sort
+4. Insertion Sorting
+5. Merge Sorting
+6. Quick Sorting
+
+Day 5
+Estimated time: 3h 59m
+1. Basic Hashing
+2. Longest Consecutive Sequence in an Array
+3. Longest subarray with sum K
+4. Count subarrays with given sum
+5. Count subarrays with given xor K
+6. Reverse a String II
+7. Palindrome Check
+8. Largest Odd Number in a String
+9. Longest Common Prefix
+
+Day 6
+Estimated time: 3h 53m
+1. Java Basics
+2. What is OOPS
+3. Classes and Objects
+4. Practice (Classes and Objects)
+5. Attributes and Methods
+6. Practice (Attributes and Methods)
+
+Day 7
+Estimated time: 2h 17m
+1. Constructors
+2. Practice (Constructors)
+3. Encapsulation
+4. Practice (Encapsulation)
+5. Access Modifiers
+
+Sprint 2
+Estimated total: 22h 9m
+
+Day 1
+Estimated time: 2h 59m
+1. Isomorphic Strings
+2. Rotate String
+3. Valid Anagram
+4. Sort Characters by Frequency
+5. Search X in sorted array
+6. Lower Bound
+7. Upper Bound
+8. Search insert position
+9. Floor and Ceil in Sorted Array
+10. First and last occurrence
+
+Day 2
+Estimated time: 2h 52m
+1. Search in rotated sorted array-I
+2. Search in rotated sorted array-II
+3. Find minimum in Rotated Sorted Array
+4. Find out how many times the array is rotated
+5. Single element in sorted array
+6. Find square root of a number
+7. Find Nth root of a number
+8. Find the smallest divisor
+9. Koko eating bananas
+10. Minimum days to make M bouquets
+11. Aggressive Cows
+12. Book Allocation Problem
+
+Day 3
+Estimated time: 2h 51m
+1. Find peak element
+2. Median of 2 sorted arrays
+3. Kth element of 2 sorted arrays
+4. Minimize Max Distance to Gas Station
+5. Split array - largest sum
+6. Find row with maximum 1's
+
+Day 4
+Estimated time: 2h 56m
+1. Search in a 2D Matrix
+2. Search in 2D matrix - II
+3. Find Peak Element - II
+4. Matrix Median
+5. Recursion Theory
+6. Recursion Concepts with Parameters
+7. Pow(x,n)
+8. Generate Parentheses
+
+Day 5
+Estimated time: 4h
+1. Power Set
+2. Check if there exists a subsequence with sum K
+3. Count all subsequences with sum K
+4. Combination Sum
+5. Combination Sum II
+6. Subsets I
+7. Subsets II
+8. Combination Sum III
+9. Letter Combinations of a Phone Number
+10. Palindrome partitioning
+11. Word Search
+12. N Queen
+13. Rat in a Maze
+14. M Coloring Problem
+
+Day 6
+Estimated time: 3h 36m
+1. Practice (Access Modifiers)
+2. Inheritance
+3. Practice (Inheritance)
+4. Polymorphism
+5. Practice (Polymorphism)
+6. Abstraction
+
+Day 7
+Estimated time: 2h 55m
+1. Practice (Abstraction)
+2. Interfaces
+3. Practice (Interfaces)
+4. Static Keyword
+5. Practice (Static Keyword)
+
+Sprint 3
+Estimated total: 22h 36m
+
+Day 1
+Estimated time: 3h
+1. Deletion in Linked List
+2. Insertion in Linked List
+3. Deletion of the head of LL
+4. Deletion of the tail of Linked List
+5. Deletion of the Kth element of Linked List
+6. Delete the element with value X
+7. Insertion at the head of Linked List
+8. Insertion at the tail of Linked List
+9. Insertion at the Kth position of Linked List
+
+Day 2
+Estimated time: 2h 58m
+1. Insertion before the value X in Linked List
+2. Introduction to Doubly LL
+3. Deletion in Doubly LL
+4. Insertion in DLL
+5. Convert Array to Doubly Linked List
+6. Delete Tail of Doubly Linked List
+7. Delete Kth Element of Doubly Linked List
+8. Removing given node in Doubly Linked List
+9. Insert node before head in Doubly Linked List
+10. Insert node before tail in Doubly Linked List
+11. Insert node before (kth node) in Doubly Linked List
+12. Insert before given node in Doubly Linked List
+13. Add two numbers in Linked List
+14. Segregate odd and even nodes in Linked List
+15. Sort a Linked List of 0's 1's and 2's
+16. Remove Nth node from the back of the LL
+
+Day 3
+Estimated time: 2h 59m
+1. Reverse a LL
+2. Add one to a number represented by LL
+3. Find Middle of Linked List
+4. Delete the middle node in LL
+5. Check if LL is palindrome or not
+6. Find the intersection point of Y LL
+7. Detect a loop in LL
+8. Find the starting point in LL
+
+Day 4
+Estimated time: 2h 59m
+1. Length of loop in LL
+2. Reverse LL in group of given size K
+3. Rotate a LL
+4. Merge two Sorted Lists
+5. Flattening of LL
+6. Sort LL
+7. Clone a LL with random and next pointer
+8. Delete all occurrences of a key in DLL
+9. Remove duplicates from sorted DLL
+
+Day 5
+Estimated time: 3h 51m
+1. Introduction to Bits and Tricks
+2. Minimum Bit Flips to Convert Number
+3. Single Number - I
+4. Single Number - II
+5. Single Number - III
+6. Divide two numbers without multiplication and division
+7. Power Set Bit Manipulation
+8. XOR of numbers in a given range
+9. Theory
+10. Maximum Points You Can Obtain from Cards
+
+Day 6
+Estimated time: 3h 50m
+1. Inner classes
+2. Practice (Inner classes)
+3. Association, Aggregation, and Composition
+4. Practice (Composition)
+5. Object Cloning
+6. Practice (Object Cloning)
+7. Exception Handling
+
+Day 7
+Estimated time: 2h 59m
+1. Generics
+2. File Handling
+3. Design Principles
+4. Object Lifecycle
+5. Longest Substring Without Repeating Characters
+6. Max Consecutive Ones III
+7. Fruit Into Baskets
+
+Sprint 4
+Estimated total: 22h 13m
+
+Day 1
+Estimated time: 2h 59m
+1. Longest Substring With At Most K Distinct Chara
+2. Longest Repeating Character Replacement
+3. Minimum Window Substring
+4. Number of Substrings Containing All Three Chara
+5. Binary Subarrays With Sum
+6. Count number of Nice subarrays
+7. Implementation using different DS
+
+Day 2
+Estimated time: 2h 44m
+1. Implement Stack using Arrays
+2. Implement Queue using Arrays
+3. Implement Stack using Queue
+4. Implement Queue using Stack
+5. Implement stack using Linkedlist
+6. Implement queue using Linkedlist
+7. Balanced Paranthesis
+8. Next Greater Element
+9. Next Greater Element - 2
+10. Asteroid Collision
+11. Sum of Subarray Minimums
+12. Sum of Subarray Ranges
+13. Remove K Digits
+
+Day 3
+Estimated time: 2h 53m
+1. Implement Min Stack
+2. Sliding Window Maximum
+3. Trapping Rainwater
+4. Largest rectangle in a histogram
+5. Maximum Rectangles
+6. Stock span problem
+7. Celebrity Problem
+8. LRU Cache
+
+Day 4
+Estimated time: 2h 54m
+1. LFU Cache
+2. Assign Cookies
+3. Lemonade Change
+4. Jump Game - I
+5. Shortest Job First
+6. Job sequencing Problem
+7. N meetings in one room
+8. Non-overlapping Intervals
+9. Insert Interval
+10. Minimum number of platforms required for a railway
+11. Valid Paranthesis Checker
+
+Day 5
+Estimated time: 3h 47m
+1. Candy
+2. Introduction
+3. Inorder Traversal
+4. Preorder Traversal
+5. Postorder Traversal
+6. Level Order Traversal
+7. Pre, Post, Inorder in one traversal
+8. Maximum Depth in BT
+9. Check if two trees are identical or not
+10. Check for balanced binary tree
+11. Diameter of Binary Tree
+12. Maximum path sum
+13. Check for symmetrical BTs
+14. Zig Zag or Spiral Traversal
+15. Boundary Traversal
+
+Day 6
+Estimated time: 3h 57m
+1. Operating System as a Manager
+2. What Happens When We Open an App?
+3. How Many Apps Run at the Same Time?
+4. OS and Protection
+5. Process Basics
+6. Program vs. Process vs. Thread
+7. Process States and Process Control Block
+8. Process Creation and Termination
+9. Scheduling Queues and Schedulers
+10. Context Switching in OS
+11. CPU Scheduling Basics
+12. First Come First Serve (FCFS) Scheduling
+
+Day 7
+Estimated time: 2h 59m
+1. Shortest Job First (SJF) Scheduling
+2. Shortest Remaining Time First (SRTF) Scheduling
+3. Highest Response Ratio Next (HRRN) Scheduling
+4. Round Robin (RR) Scheduling
+5. Priority Scheduling
+6. Multilevel Queue (MLQ) Scheduling
+7. Multilevel Feedback Queue (MLFQ) Scheduling
+8. Kernel in OS
+9. Types of Operating Systems
+10. Types of Kernel Structures
+11. Why OS Schedulers Can't Implement Textbook Sc
+12. Multicore Scheduling
+13. Load Balancing in OS
+14. CPU Affinity, Cache Locality, and NUMA
+
+Sprint 5
+Estimated total: 22h 1m
+
+Day 1
+Estimated time: 2h 48m
+1. Vertical Order Traversal
+2. Top View of BT
+3. Bottom view of BT
+4. Right/Left View of BT
+5. Print root to leaf path in BT
+6. LCA in BT
+7. Maximum Width of BT
+8. Print all nodes at a distance of K in BT
+9. Minimum time taken to burn the BT from a given
+10. Count total nodes in a complete BT
+11. Requirements needed to construct a unique BT
+12. Construct a BT from Preorder and Inorder
+
+Day 2
+Estimated time: 2h 59m
+1. Construct a BT from Postorder and Inorder
+2. Serialize and De-serialize BT
+3. Morris Inorder Traversal
+4. Morris Preorder Traversal
+5. Introduction to BST
+6. Search in BST
+7. Floor and Ceil in a BST
+8. Insert a given node in BST
+9. Delete a node in BST
+10. Kth Smallest and Largest element in BST
+11. Check if a tree is a BST or not
+12. LCA in BST
+13. Construct a BST from a preorder traversal
+14. Inorder successor and predecessor in BST
+15. BST iterator
+16. Two sum in BST
+
+Day 3
+Estimated time: 2h 51m
+1. Correct BST with two nodes swapped
+2. Largest BST in Binary Tree
+3. Heaps (Theory Video)
+4. Heapify Algorithm
+5. Build heap from a given Array
+6. Implement Min Heap
+7. Implement Max Heap
+8. Check if an array represents a min heap
+9. Convert Min Heap to Max Heap
+10. Heap Sort
+
+Day 4
+Estimated time: 2h 42m
+1. K-th Largest element in an array
+2. Kth largest element in a stream of running integers
+3. Introduction to Graph
+4. Traversal Techniques
+5. Connected Components
+6. Number of provinces
+
+Day 5
+Estimated time: 3h 58m
+1. Flood fill algorithm
+2. Number of enclaves
+3. Rotten Oranges
+4. Distance of nearest cell having one
+5. Surrounded Regions
+6. Number of distinct islands
+7. Detect a cycle in an undirected graph
+8. Bipartite graph
+9. Topological sort or Kahn's algorithm
+
+Day 6
+Estimated time: 3h 43m
+1. Threads in Operating System
+2. Threads vs Processes
+3. What Memory Is Shared Between Threads?
+4. User-Level Threads vs Kernel-Level Threads
+5. Multithreading Models in OS
+6. POSIX Threads
+7. Thread Pools
+8. Concurrency vs Parallelism
+9. Multiprogramming vs Multitasking vs Multiprocessing
+10. Thread Safety, Reentrancy, and Race Condition
+11. Race Conditions in Operating Systems
+12. Critical Section Problem and Mutual Exclusion
+13. Dekker’s Algorithm
+
+Day 7
+Estimated time: 3h
+1. Peterson’s Algorithm
+2. Bakery Algorithm
+3. Hardware Synchronization Principles
+4. Test-and-Set
+5. Compare-and-Swap
+6. Locks, Mutexes, and Types of Locks
+
+Sprint 6
+Estimated total: 21h 17m
+
+Day 1
+Estimated time: 2h 54m
+1. Detect a cycle in a directed graph
+2. Find eventual safe states
+3. Course Schedule I
+4. Course Schedule II
+5. Alien Dictionary
+6. Shortest path in DAG
+7. Shortest path in undirected graph with unit weight
+8. Word ladder I
+
+Day 2
+Estimated time: 2h 39m
+1. Word ladder II
+2. Dijkstra's algorithm
+3. Print Shortest Path
+4. Shortest Distance in a Binary Maze
+5. Path with minimum effort
+
+Day 3
+Estimated time: 2h 21m
+1. Cheapest flight within K stops
+2. Minimum multiplications to reach end
+3. Number of ways to arrive at destination
+4. Bellman ford algorithm
+5. Floyd warshall algorithm
+6. Find the city with the smallest number of neighbc
+7. MST theory
+
+Day 4
+Estimated time: 2h 38m
+1. Disjoint Set
+2. Find the MST weight
+3. Number of operations to make network connected
+4. Accounts merge
+5. Number of islands II
+6. Making a large island
+
+Day 5
+Estimated time: 3h 45m
+1. Most stones removed with same row or column
+2. Kosaraju's algorithm
+3. Bridges in graph
+4. Articulation point in graph
+5. Introduction to DP
+6. Climbing stairs
+7. Frog Jump
+8. Frog jump with K distances
+9. Maximum sum of non adjacent elements
+10. House robber
+
+Day 6
+Estimated time: 4h
+1. Semaphores
+2. Mutex vs Semaphores
+3. Producer-Consumer Problem
+4. Condition Variables in OS
+5. Monitoring in OS
+6. Readers-Writers Problem
+7. Sleeping Barber Problem
+8. Dining Philosophers Problem
+
+Day 7
+Estimated time: 3h
+1. Deadlock in Operating Systems
+2. Conditions for Deadlock
+3. Resource Allocation Graph
+4. Wait-for Graph, Safe State, and Unsafe State
+5. Deadlock Prevention
+6. Deadlock Avoidance
+
+Sprint 7
+Estimated total: 20h 38m
+
+Day 1
+Estimated time: 2h 28m
+1. Ninja's training
+2. Grid unique paths
+3. Unique paths II
+4. Minimum Falling Path Sum
+
+Day 2
+Estimated time: 2h 40m
+1. Triangle
+2. Cherry pickup II
+3. Best time to buy and sell stock
+4. Best time to buy and sell stock II
+5. Best time to buy and sell stock III
+6. Best time to buy and sell stock IV
+7. Best time to buy and sell stock with transaction fee
+
+Day 3
+Estimated time: 2h 43m
+1. Subset sum equals to target
+2. Partition equal subset sum
+3. Partition a set into two subsets with minimum ab
+4. Count subsets with sum K
+5. Count partitions with given difference
+6. 0 and 1 Knapsack
+
+Day 4
+Estimated time: 2h 54m
+1. Minimum coins
+2. Target sum
+3. Coin change II
+4. Unbounded knapsack
+5. Rod cutting problem
+6. Longest Increasing Subsequence
+7. Print Longest Increasing Subsequence
+
+Day 5
+Estimated time: 3h 37m
+1. Largest Divisible Subset
+2. Longest String Chain
+3. Longest Bitonic Subsequence
+4. Number of Longest Increasing Subsequences
+5. Longest common subsequence
+6. Longest common substring
+7. Longest palindromic subsequence
+8. Minimum insertions to make string palindrome
+9. Minimum insertions or deletions to convert string
+10. Shortest common supersequence
+
+Day 6
+Estimated time: 3h 37m
+1. Banker’s Algorithm
+2. Deadlock Detection
+3. Deadlock Recovery
+4. Starvation vs Deadlock vs Livelock
+5. Priority Inversion
+6. Debugging Concurrency Bugs
+7. Edit distance
+
+Day 7
+Estimated time: 2h 39m
+1. Matrix chain multiplication
+2. Burst balloons
+3. Palindrome partitioning II
+
+Sprint 8
+Estimated total: 22h 6m
+
+Day 1
+Estimated time: 2h 31m
+1. Trie Implementation and Operations
+2. Trie Implementation and Advanced Operations
+3. Longest Word with All Prefixes
+4. Number of distinct substrings in a string
+5. Maximum XOR of two numbers in an array
+6. Maximum Xor with an element from an array
+
+Day 2
+Estimated time: 2h 58m
+1. Reverse every word in a string
+2. Minimum number of bracket reversals to make ar
+3. Count and say
+4. Rabin Karp Algorithm
+5. Z function
+6. KMP Algorithm or LPS array
+7. Shortest Palindrome
+8. Longest happy prefix
+
+Day 3
+Estimated time: 2h 54m
+1. Prime factorisation of a Number
+2. Count primes in range L to R
+3. Network Types
+4. Internet and Backbone Networks
+5. Clients, Servers and Peers
+6. How data moves in packets
+7. Why do we need layered Architecture
+8. OSI Model
+
+Day 4
+Estimated time: 3h
+1. TCP/IP Model
+2. OSI vs TCP/IP
+3. Encapsulation and Decapsulation
+4. Physical Layer
+5. Full duplex vs Half duplex
+6. Network Device
+7. Mac address
+8. Error Detection
+9. Medium Access and CSMA
+10. Address Resolution Protocol
+11. Physical Topologies
+12. Ethernet Switching
+13. Virtual LANs
+
+Day 5
+Estimated time: 3h 49m
+1. Switching vs Routing
+2. Introduction to Network Layer
+3. IPv4 Introduction
+4. IPv4 Datagram
+5. IP Addressing Modes
+6. Private vs Public IP
+7. Classful Addressing
+8. Subnetting
+9. Common Interview Questions
+10. CIDR - Classless Addressing
+11. IPv6 Introduction
+12. IPv6 Datagram
+13. IPv6 over IPv4
+14. Router vs Forwarding
+
+Day 6
+Estimated time: 3h 57m
+1. Routing Loop and Prevention
+2. Link State Routing and OSPF
+3. Border Gateway Protocol
+4. Transport Layer Introduction
+5. Port and Sockets
+6. UDP
+7. TCP-I: Connection Setup and Numbering
+8. TCP-II: Reliability, Flow Control and Sliding Window
+9. TCP-III: Congestion Control and Connection Closing
+10. When to choose TCP/UDP
+11. HTTP-Request Response Model
+12. HTTP methods and status codes
+13. HTTP Versions
+14. HTTP/3 and QUIC
+15. HTTPS and TLS
+
+Day 7
+Estimated time: 2h 57m
+1. Cookies, Sessions, and tokens
+2. Rest API’s
+3. WebSockets
+4. File Transfer Protocol
+5. NAT and Why do we need it?
+6. NAT Packet Flow
+7. Types of NAT
+8. SNAT, DNAT and Port Forwarding
+9. NAT Limitations
+10. DNS
+11. DNS Record Types
+12. DNS Security
+13. Dynamic Host Configuration Protocol (DHCP)
+14. What is Switching and Why?
+15. Circuit Switching
+16. Packet Switching
+17. Datagram Packet Switching
+
+Sprint 9
+Estimated total: 21h 35m
+
+Day 1
+Estimated time: 2h 59m
+1. Virtual Circuit Packet Switching
+2. CIA Triad
+3. AAA Framework
+4. Common Network Security Threats
+5. Firewalls and Types
+6. Firewall Type Comparison - L3, L4, and L7
+7. VPNs
+8. Introduction of Cryptography
+9. Security Goals of Cryptography
+10. Basic Cryptography Terms
+11. Symmetric Encryption
+12. Asymmetric Cryptography
+13. Diffie Hellman Key Exchange Method
+14. Hybrid Encryption
+15. Hash Functions
+16. MAC and HMAC
+17. Digital Signatures
+18. Certificate Authority and Chain of Trust
+19. TLS and SSL
+
+Day 2
+Estimated time: 2h 59m
+1. TLS Handshake and Forward Secrecy
+2. Basics of Wireless Networking
+3. Wi-Fi Joining Flow
+4. Why Wi-Fi speed drops in Real Life
+5. How Wi-Fi avoids Collisions
+6. Wi-Fi Security
+7. Metrics Deep Dive
+8. Data Transfer and Bottlenecks, BDP
+9. Latency Sources, Delay, and TTFB
+10. Congestion, Bufferbloat, and Congestion Collapse
+11. Rate Limiting
+12. Fixed Window Counter - Rate Limiting Algo
+13. Sliding Window Log - Rate Limiting Algo
+14. Sliding Window Counter - Rate Limiting Algo
+15. Token Bucket - Rate Limiting Algo
+16. Leaky Bucket - Rate Limiting Algo
+17. Concurrency Limiter - Rate Limiting Algo
+18. Load Balancing Fundamentals
+19. L4 vs L7 Load Balancers
+20. Load Balancing Algorithms
+
+Day 3
+Estimated time: 2h 30m
+1. CDN Caching and Lifestyle
+2. What happens when you type google.com
+3. What happens when DNS fails?
+4. What happens when you connect to public Wi-Fi?
+5. How does a CDN serve an image/video?
+
+Day 4
+Estimated time: 2h 54m
+1. Introduction to SQL
+2. Why SQL Exists
+3. How Databases Work
+4. Database Systems
+5. Installation and Tools
+6. File Systems vs Database Management Systems
+7. Data Abstraction, Schemas, Instances, and Data
+8. DBMS Components and End-to-End Query Flow
+9. Database Users, Roles, and Deployment Architect
+10. Data Models and Database Families
+
+Day 5
+Estimated time: 3h 49m
+1. Database & Table Basics
+2. SQL Basics and Commands
+3. Working with Databases in SQL
+4. SQL Data Types
+5. Creating and Managing Tables in SQL
+6. Primary Key
+7. Foreign Key
+8. Constraints in SQL
+9. NULL vs 0 vs Empty String
+10. DDL vs DML
+11. Query Lifecycle
+12. Indexing in SQL
+13. Entities, Entity Sets, and Attributes
+
+Day 6
+Estimated time: 3h 45m
+1. Weak Entities and Enhanced ER Modeling
+2. ER/EER-to-Relational Mapping
+3. Database Design Fundamentals
+4. Importance, Raw Data and Pain
+5. Core Concepts (Overview)
+6. Mental Model (First Principle)
+7. Schema Design
+8. Entity and Attributes
+9. Relationships, Cardinality and Optionality
+10. Everything About Keys
+
+Day 7
+Estimated time: 2h 39m
+1. Normalisation and their Forms
+2. Formal Relational Model and Integrity Constraints
+3. Fundamental Relational Algebra
+4. Joins and Extended Relational Algebra
+5. Views and Materialized Views
+6. Triggers, Stored Routines, and Database-Side Logic
+7. Redundancy and Update Anomalies
+8. Functional Dependencies and Keys
+9. First, Second, Third, and Boyce—Codd Normal Forms
+10. Decomposition Quality and Normalization Algorithms
+
+Sprint 10
+Estimated total: 21h 55m
+
+Day 1
+Estimated time: 3h
+1. Query Fundamentals
+2. SELECT AND FROM
+3. WHERE
+4. Comparison Operators
+5. Logical Operators
+6. Arithmetic Operators
+7. ORDER BY and LIMIT
+8. DISTINCT and AS (Aliases)
+9. Big Countries
+10. Profitable Customers in 2021
+11. Odd Non-Boring Movies
+12. Filtering Essentials
+13. IS NULL vs. IS NOT NULL, IN, and NOT IN
+14. BETWEEN and NOT BETWEEN
+15. LIKE and NOT LIKE
+16. Filter Records Excluding a Specific Pattern
+17. Find Records Excluding a Given Set of Values
+18. Find Salaries Outside the Expected Range
+
+Day 2
+Estimated time: 2h 58m
+1. Data Summarization
+2. Fundamentals of GROUP BY
+3. Basic Aggregate Functions (MIN, MAX, SUM, AVG
+4. COUNT Functions
+5. HAVING Clause (Basics, HAVING with COUNT)
+6. First Login Analysis
+7. Employee Work Time Summary
+8. Unique Subjects per Teacher
+9. User Follower Count
+10. CRM Automotive Sales Analysis
+11. Highest Order Placing Customer
+12. Non-Referred Customers
+
+Day 3
+Estimated time: 2h 18m
+1. Frequent Actor-Director Duos
+2. Large Classes
+3. Email Duplicates
+4. Merging Query Results
+5. UNION
+6. UNION ALL
+7. Difference Between UNION and UNION ALL
+8. Intersection
+9. Combine Active and Archived Users
+10. Merge Recent Orders from Multiple Sources
+11. Combine Sales Records Without Deduplication
+12. Reshape Products Data
+
+Day 4
+Estimated time: 2h 51m
+1. Joins Deep Dive
+2. RIGHT JOIN
+3. ON vs. WHERE
+4. LEFT JOIN
+5. INNER JOIN
+6. FULL OUTER JOIN
+7. CROSS JOIN
+8. IMPLICIT JOIN
+9. SELF JOIN
+10. NATURAL JOIN
+11. Employees and Their Departments
+
+Day 5
+Estimated time: 4h
+1. Customer Orders Overview
+2. Employees With Confirmed Salary Records
+3. Generate All Possible User-Category Pairs
+4. Employees With or Without Salary Records
+5. Match Employees With Their Salaries
+6. Employees Earning More Than Their Manager
+7. Students Enrolled in Courses
+8. Sales Analysis
+9. Minimum Distance Between Points
+10. Suspended Accounts
+11. Find Team Size for Each Employee
+12. Average Experience by Project
+13. Warehouse Stock Manager
+14. Table Join Operation
+15. Inactive Customers
+16. Low Bonus Employees
+17. Available Seat Streaks
+18. Visitors Without Transactions
+19. A & B Buyers Without C
+20. Product Selling Price Report
+21. Updated Bank Balances
+22. Most Frequent Travellers
+23. Suggested Pages
+24. Everything about Subqueries
+25. Introduction to Subqueries (IN)
+26. EXISTS and NOT EXISTS
+
+Day 6
+Estimated time: 3h 52m
+
+Day 7
+Estimated time: 2h 56m
+1. Correlated Subqueries
+2. Contest Participation Rate
+3. High-Report Managers
+4. All-Product Buyers
+5. Highest Non-Repeating Number
+6. Find the First Device Logged In by Each Player
+7. Salespersons Without RED Orders
+8. Employees with the Highest Salary in Each Department
+9. Find the Most Recent Order for Each Product
+10. Find Transactions with Maximum Amount Per Day
+11. Incomplete Employee Records
+12. Find Quiet Students in All Exams
+
+Sprint 11
+Estimated total: 20h 48m
+
+Day 1
+Estimated time: 2h 30m
+1. Top Grade per Student
+2. Swap Consecutive Seats
+3. Safe Investment Countries
+4. Tennis Grand Slam Winners
+5. Football Team Scores
+6. Order Count per Customer
+7. Boolean Expression Evaluator
+8. Immediate First Orders Percentage
+9. Find All Employees Reporting to the Head of the
+10. Orphan Employees
+
+Day 2
+Estimated time: 2h 44m
+1. Editing Data and Tables
+2. INSERT
+3. UPSERT
+4. UPDATE
+5. DELETE
+6. ALTER
+7. TRUNCATE
+8. DELETE vs. TRUNCATE vs. DROP
+9. System Settings
+10. Employee Salary
+11. Storage Hierarchy, Pages, Records, and Buffers
+12. File Organization
+13. Index Classification and Design
+14. B-Trees and B+ Trees
+
+Day 3
+Estimated time: 2h 49m
+1. Storage, Keys and Query Performance
+2. Where Rows Actually Live
+
+Day 4
+Estimated time: 1h 58m
+1. How a B+ Tree Is Built with Data
+2. Why the Wrong Primary Key Can Quietly Destroy
+3. Index Strategy at Scale
+4. From SQL to an Executable Plan
+5. Algorithms for Selection, Projection, Sorting, and
+6. Join Processing Algorithms
+7. Cost-Based Query Optimization
+
+Day 5
+Estimated time: 4h
+1. Performance & Debugging
+2. Raw Data Setup and Stored Procedures
+3. Debugging Queries with EXPLAIN
+4. Query Performance
+5. Debugging Correctness
+6. Permissions and Transactions Part-1
+7. Privileges and Roles
+8. GRANTS
+9. GRANT ALL and WITH GRANT OPTION
+10. ALTER USER
+11. REVOKE
+
+Day 6
+Estimated time: 3h 47m
+1. Permissions and Transactions Part-2
+2. Connection, Connection Pool and Commit
+3. Rollback
+4. Savepoint
+5. Internal Working of Transactions, Timeout and De
+6. Transaction Concepts, ACID, and States
+7. Schedules and Concurrency Anomalies
+8. Conflict and View Serializability
+9. Lock-Based Protocols and Two-Phase Locking
+10. Deadlock Handling
+11. Timestamp Ordering, Optimistic Control, and MVC
+12. SQL Isolation Levels
+
+Day 7
+Estimated time: 3h
+1. Failures, Storage, and Recovery Goals
+2. Log-Based Recovery and Write-Ahead Logging
+3. Checkpoints and ARIES Intuition
+4. Shadow Paging, Backup, and Point-in-Time Recovery
+5. Declarative Integrity Beyond Keys
+6. Authorization, Views, and Auditing
+7. Database Security Threats and Protection
+8. Metadata, Statistics, Maintenance, and Observability
+9. Distributed Database Foundations
+10. Partitioning, Sharding, and Distributed IDs
+11. Replication, Consistency, and CAP/PACELC
+12. Distributed Transactions and Coordination
+
+Sprint 12
+Estimated total: 1h 30m
+
+Day 1
+Estimated time: 1h 30m
+1. NoSQL Data Models and SQL-vs-NoSQL Decisions
+2. OLTP, OLAP, Warehousing, and Columnar Storage
+3. Schema-Design Capstone
+4. Storage and Query-Plan Lab
+5. Concurrency and Recovery Lab
+6. Interview Depth by Candidate Level
